@@ -5,7 +5,7 @@ on:
     branches: [ "master" ]
 
 env:
-  REGISTRY: roxsross12
+  REGISTRY: msajoza
   VERSION: 1.0.0
 
 jobs:
